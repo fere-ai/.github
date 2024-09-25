@@ -7,12 +7,13 @@ The Ultimate AI Web3 Assistant
 ## Useful Links
 
 - [Docs](https://docs.fereai.xyz)
+- [Blog](https://www.fereai.xyz/blog)
+- [Developer Docs](https://docs.fereai.xyz/docs/api/api-introduction)
+
+## Socials
 - [Twitter](https://x.com/fere_ai)
 - [Discord](https://discord.gg/3fsm5XJNW8)
-
-- [Developer Docs](https://docs.fereai.xyz/docs/api/api-introduction)
 
 ## Support
 
 - Reach out to us on Discord. Open a support ticket
-
